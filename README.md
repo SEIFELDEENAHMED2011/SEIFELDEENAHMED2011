@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SEIFELDEENAHMED2011
 - 👀 I’m interested in creating apps
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me | send me an email
 
 <!---
